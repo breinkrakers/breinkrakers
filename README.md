@@ -7,6 +7,7 @@
 - [ ] Trek een lijn
 - [ ] Trek een driehoek
 - [ ] Zie ik de maan?
+- [ ] trein (denk goed na)
 - [ ] Ik trek een cirkel
 - [ ] Douane spel
 - [ ] Ik zet dit in dat van wie is ie dan? (naam)
